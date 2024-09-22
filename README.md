@@ -8,3 +8,6 @@ Mechatronics Engineering, B.Sc
 ### Projects
 ![EEE_Band_Discovery]
 
+### Publications
+[Publication](https://ieeexplore.ieee.org/abstract/document/10374424)
+
