@@ -5,5 +5,6 @@ Mechatronics Engineering, B.Sc
 
 ### Work Experience
 
-### Projectss
+### Projects
+![EEE_Band_Discovery]
 
