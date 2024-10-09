@@ -23,7 +23,7 @@ Example data science portfolio
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-![](/images/positions_by_state.png)
+![]([/images/positions_by_state.png](https://github.com/NaziaHasanDana/NaziaHasanDana.github.io/blob/main/images/Screenshot%202024-10-08%20144901.png))
 
 
 # [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
