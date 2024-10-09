@@ -23,7 +23,10 @@ Example data science portfolio
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-![Four-wheeled Mobile Robot with a Robotic Arm](https://github.com/NaziaHasanDana/NaziaHasanDana.github.io/blob/main/images/WhatsApp%20Image%202024-10-09%20at%201.39.21%20PM%20(1).jpeg?raw=true)
+<p>
+    <img src="https://github.com/NaziaHasanDana/NaziaHasanDana.github.io/blob/main/images/WhatsApp%20Image%202024-10-09%20at%201.39.21%20PM%20(1).jpeg?raw=true" alt="Four-Wheeled Mobile Robot" width="250"/>
+    <img src="https://github.com/NaziaHasanDana/NaziaHasanDana.github.io/blob/main/images/WhatsApp%20Image%202024-10-09%20at%201.39.24%20PM.jpeg" alt="EMG Signal-Based Control" width="250"/>
+</p>
 
 
 # [Project 2: Modeling of an Articulated Robot with URDF & Visualize in RViz](https://github.com/PlayingNumbers/ball_image_classifier) 
